@@ -32,13 +32,13 @@ I’m looking to collaborate with other developers.
 
 ## My github stats
 
-![Khizar's github stats](https://github-readme-stats-mocha-gamma.vercel.app/api?username=khizarhashmi119&show_icons=true&theme=dark)
+[![Khizar's github stats](https://github-readme-stats-mocha-gamma.vercel.app/api?username=khizarhashmi119&show_icons=true&theme=dark)](https://github.com/Khizarhashmi119/github-readme-stats)
 
 ## Languages used
 
-![Top Langs](https://github-readme-stats-mocha-gamma.vercel.app/api/top-langs/?username=khizarhashmi119&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats-mocha-gamma.vercel.app/api/top-langs/?username=khizarhashmi119&layout=compact&theme=dark)](https://github.com/Khizarhashmi119/github-readme-stats)
 
 ## Some of my pinned repos.
 
-![ReadMe Card](https://github-readme-stats-mocha-gamma.vercel.app/api/pin/?username=khizarhashmi119&repo=portfolio&theme=dark)
+[![ReadMe Card](https://github-readme-stats-mocha-gamma.vercel.app/api/pin/?username=khizarhashmi119&repo=portfolio&theme=dark)](https://github.com/Khizarhashmi119/portfolio)
 
