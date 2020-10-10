@@ -6,6 +6,7 @@ I’m looking to collaborate with other developers.
 ## Connect with me
 [<img src="./images/linkedin.png" alt="twitter"/>](https://www.linkedin.com/in/khizarhashmi119/)
 [<img src="./images/twitter.png" alt="linkedin"/>](https://twitter.com/khizarhashmi119)
+[<img src="./images/instagram.png" alt="instagram"/>](https://www.instagram.com/khizarhashmi119/)
 
 ## Languages and tools
 ![HTML5](./images/html5.png)
@@ -28,3 +29,16 @@ I’m looking to collaborate with other developers.
 ![Git](./images/git.png)
 ![Github](./images/github.png)
 ![Heroku](./images/heroku.png)
+
+## My github stats
+
+![Khizar's github stats](https://github-readme-stats-mocha-gamma.vercel.app/api?username=khizarhashmi119&show_icons=true&theme=dark)
+
+## Languages used
+
+![Top Langs](https://github-readme-stats-mocha-gamma.vercel.app/api/top-langs/?username=khizarhashmi119&layout=compact&theme=dark)
+
+## Some of my pinned repos.
+
+![ReadMe Card](https://github-readme-stats-mocha-gamma.vercel.app/api/pin/?username=khizarhashmi119&repo=portfolio&theme=dark)
+
